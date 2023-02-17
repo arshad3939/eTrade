@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/eTrade/static/js/main.117102e9.js",
+    "main.js": "/eTrade/static/js/main.1a2239be.js",
     "static/media/logo (1).png": "/eTrade/static/media/logo (1).fd02f42b5a142c33a689.png",
     "index.html": "/eTrade/index.html",
-    "main.117102e9.js.map": "/eTrade/static/js/main.117102e9.js.map"
+    "main.1a2239be.js.map": "/eTrade/static/js/main.1a2239be.js.map"
   },
   "entrypoints": [
-    "static/js/main.117102e9.js"
+    "static/js/main.1a2239be.js"
   ]
 }
