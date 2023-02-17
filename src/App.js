@@ -10,7 +10,7 @@ import Footer from './pages/Footer';
 const App = () => {
   
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename='/eTrade'>
       <Header/>
       <Routes>
         <Route path='/' element={<Home />}></Route>
